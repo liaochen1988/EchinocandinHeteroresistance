@@ -1,0 +1,97 @@
+The current files correspond to version s01-m03-r48
+
+#------------------------------------------------------------------
+# The following notes describe the column names in the feature file
+#------------------------------------------------------------------
+The files in this directory contain information about chromosomal
+features for Candida parapsilosis CDC317.
+
+The notation "version_sXX-mYY-rZZ" in the filename indicates the genome version
+to which data in the file corresponds. Detailed explanation about the genome
+version notation can be found at: http://www.candidagenome.org/help/SequenceHelp.shtml#versions
+Information pertaining to each version update for C. parapsilosis CDC 317 can be found at:
+http://www.candidagenome.org/cgi-bin/genomeVersionHistory.pl?seq_source=C.%20parapsilosis%20CDC317
+
+The file with "current" in its names is provided as a stable filename for
+automated downloads. It is identical to (technically, symbolic links to) the
+corresponding versioned file.
+
+This file is updated weekly:
+
+C_parapsilosis_CDC317_version_sXX-mYY-rZZ_chromosomal_feature.tab
+
+Columns within chromosomal_features.tab:
+
+1.  Feature name (mandatory); this is the primary systematic name, if available
+2.  Gene name (locus name)
+3.  Aliases (multiples separated by |)
+4.  Feature type
+5.  Chromosome
+6.  Start Coordinate
+7.  Stop Coordinate
+8.  Strand
+9.  Primary CGDID
+10. Secondary CGDID (if any)
+11. Description
+12. Date Created
+13. Sequence Coordinate Version Date (if any)
+14. Blank
+15. Blank
+16. Date of gene name reservation (if any).
+17. Has the reserved gene name become the standard name? (Y/N)
+18. Name of S. cerevisiae ortholog(s) (multiples separated by |)
+
+Note: Genes that have been deleted from the current reference annotation
+set are not included in this file.
+
+
+URL: www.candidagenome.org
+Contact: http://www.candidagenome.org/cgi-bin/suggestion
+Funding: NIDCR at US NIH, grant number 1-R01-DE015873-01
+
+#------------------------------------------------------------------
+# The following notes describe the column names in the gff file
+#------------------------------------------------------------------
+This directory contains the downloadable CGD files in the Generic
+Feature Format (GFF).  These files describe features in CGD, including
+chromosomes, ORFs, CDSs, introns, sequence gaps, intergenic regions, etc.
+We also provide annotation of protein-coding genes in Gene Transfer Format (GTF).
+
+Please see http://www.sequenceontology.org/gff3.shtml for a detailed description
+of the Generic Feature Format (GFF).
+
+Please see http://mblab.wustl.edu/GTF22.html for a description
+of the Gene Transfer Format (GTF).
+
+The notation "version_sXX-mYY-rZZ" in the filenames indicates the genome version
+to which data in the file corresponds. Detailed explanation about the genome
+version notation can be found at: http://www.candidagenome.org/help/SequenceHelp.shtml#versions
+Information pertaining to each version update for C. parapsilosis CDC 317 can be found at:
+http://www.candidagenome.org/cgi-bin/genomeVersionHistory.pl?seq_source=C.%20parapsilosis%20CDC317
+
+GFF files with "current" in their names are provided as stable filenames for
+automated downloads. They are identical to (technically, symbolic links to) the
+corresponding versioned files.
+
+GFF files for previous genome versions are available in the archive sub-directory.
+
+The following files are updated weekly:
+
+C_parapsilosis_CDC317_version_sXX-mYY-rZZ_features.gff
+    This file contains the current CGD annotation of the C. parapsilosis genome sequence.
+
+C_parapsilosis_CDC317_version_sXX-mYY-rZZ_features.gtf
+    This file contains the current CGD annotation of C. parapsilosis protein-coding genes in GTF.
+
+C_parapsilosis_CDC317_version_sXX-mYY-rZZ_features_with_chromosome_sequences.gff.gz
+    This file contains the current CGD annotation and the current genomic sequence
+    of all chromosomes of the genome sequence. The annotations in this file and the
+    previous file are the same. The chromosome sequences are specified
+    in the "##FASTA" section at the end of this file according to GFF3 file format
+    specifications (see http://www.sequenceontology.org/gff3.shtml).
+
+C_parapsilosis_CDC317_version_sXX-mYY-rZZ_intergenic.gff
+    This file lists the intergenic regions between coding regions in the
+    chromosomes. This file also contains lengths of these intergenic sequences
+    and GC and AT content of each intergenic region (percent GC and percent AT).
+

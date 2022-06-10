@@ -1,0 +1,7 @@
+FeatureName,Importance_score,CPAR2_tag,Description
+CPAR2_104610,0.2385992788504312,CPAR2_104610,Ortholog(s) have fungal-type vacuole localization
+CPAR2_104600,0.20890091196945923,CPAR2_104600,"Ortholog(s) have role in maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA), maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA and LSU-rRNA), more"
+Contig005809_C_parapsilosis_CDC317:1574350:SNP$HomAlt,0.14826128696358135,CPAR2_207400,"Ortholog(s) have DNA-binding transcription activator activity, RNA polymerase II-specific, DNA-binding transcription factor activity, RNA polymerase II cis-regulatory region sequence-specific DNA binding activity"
+Contig005809_C_parapsilosis_CDC317:2251778:SNP$HomAlt,0.13633972040158404,,
+CPAR2_805410,0.1341475399027454,CPAR2_805410,Has domain(s) with predicted catalytic activity and role in metabolic process
+Contig005809_C_parapsilosis_CDC317:1283814:SNP$Het,0.1337512619121988,,
