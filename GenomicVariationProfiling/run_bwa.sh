@@ -1,8 +1,8 @@
 for path in */; do
     # iterate each sample folder
     [ -d "${path}" ] || continue # if not a directory, skip
-    [[ $path == CDCF* ]] || continue # if not start with "CDCF", skip
-    echo $path
+    [[ $path == $1* ]] || continue # if not started with a given prefix, skip
+    #echo $path
     cd $path
 
     # get pair-end read samples
@@ -12,7 +12,7 @@ for path in */; do
 
     # continue if $base.sam.gz exists
     if test -f "$base.sam.gz"; then
-      echo "$base.sam.gz exists."
+      #echo "$base.sam.gz exists."
       cd ..
       continue
     fi
@@ -29,9 +29,9 @@ for path in */; do
     # run bwa-mem
     bwa mem \
      -M \
-     -t 36 \
+     -t $2 \
      -R $(echo "@RG\tID:$id\tSM:$id"_"$sm\tLB:$id"_"$sm\tPL:ILLUMINA") \
-     ../../CDC317/CpCDC317bwaidx \
+     ../$3/CpCDC317bwaidx \
      $Reads1 $Reads2 | gzip > $base.sam.gz
 
     cd ..

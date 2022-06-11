@@ -1,10 +1,10 @@
-command="../gatk-4.1.9.0/gatk CombineGVCFs -R ../CDC317/C_parapsilosis_CDC317_current_chromosomes.fasta"
+command="$2/gatk CombineGVCFs -R $3/C_parapsilosis_CDC317_current_chromosomes.fasta"
 
 counter=0
 for path in */; do
     # iterate each sample folder
     [ -d "${path}" ] || continue # if not a directory, skip
-    [[ $path == CDCF* ]] || continue # if not start with "CDCF", skip
+    [[ $path == $1* ]] || continue # if not started with a given prefix, skip
     #echo $path
     cd $path
 
@@ -17,8 +17,6 @@ for path in */; do
         #echo "$base.unfiltered.vcf.gz exists."
         command="$command --variant $path$base.unfiltered.vcf.gz"
         counter=$((counter+1))
-    else
-        echo "$base.unfiltered.vcf.gz does not exist."
     fi
 
     cd ..
