@@ -1,0 +1,220 @@
+Isolate,Pattern_2154,Pattern_2154_cnv_cat,Pattern_2154_cnv_quant,Institute,Location,HR
+CDC335,0,Normal,2,CDC,USA,False
+CDC336,0,Partial deletion,1,CDC,USA,False
+CDC337,0,Partial deletion,1,CDC,USA,False
+CDC338,0,Partial amplification,3,CDC,USA,False
+CDC339,1,Full deletion,0,CDC,USA,False
+CDC340,1,Full deletion,0,CDC,USA,False
+CDC342,0,Partial deletion,0,CDC,USA,False
+CDC343,1,Full deletion,0,CDC,USA,True
+CDC344,1,Full deletion,0,CDC,USA,True
+E1,0,Normal,2,PUMCH,China,False
+E10,0,Normal,2,PUMCH,China,False
+E11,0,Partial deletion,0,PUMCH,China,False
+E12,0,Partial deletion,0,PUMCH,China,False
+E13,0,Partial deletion,0,PUMCH,China,False
+E14,0,Normal,2,PUMCH,China,False
+E15,0,Partial deletion,0,PUMCH,China,False
+E16,0,Partial deletion,0,PUMCH,China,False
+E17,0,Partial deletion,0,PUMCH,China,False
+E18,0,Partial deletion,0,PUMCH,China,False
+E19,0,Partial deletion,0,PUMCH,China,False
+E20,0,Partial deletion,0,PUMCH,China,False
+E21,0,Partial deletion,0,PUMCH,China,False
+E22,0,Partial deletion,0,PUMCH,China,False
+E23,0,Partial deletion,0,PUMCH,China,False
+E24,0,Partial deletion,0,PUMCH,China,False
+E25,0,Partial deletion,0,PUMCH,China,False
+E27,0,Normal,2,PUMCH,China,False
+E3,0,Partial deletion,0,PUMCH,China,False
+E30,0,Normal,2,PUMCH,China,True
+E31,0,Normal,2,PUMCH,China,False
+E32,1,Full deletion,0,PUMCH,China,True
+E33,0,Partial deletion,0,PUMCH,China,False
+E34,0,Partial deletion,0,PUMCH,China,True
+E35,0,Normal,2,PUMCH,China,False
+E36,1,Full deletion,0,PUMCH,China,True
+E37,0,Partial deletion,0,PUMCH,China,False
+E38,0,Normal,2,PUMCH,China,True
+E39,0,Normal,2,PUMCH,China,False
+E4,0,Partial deletion,0,PUMCH,China,False
+E40,0,Partial deletion,0,PUMCH,China,False
+E41,0,Partial deletion,0,PUMCH,China,False
+E42,0,Partial deletion,0,PUMCH,China,False
+E43,0,Partial deletion,0,PUMCH,China,False
+E44,0,Partial deletion,0,PUMCH,China,False
+E45,0,Partial deletion,0,PUMCH,China,True
+E46,0,Partial deletion,0,PUMCH,China,True
+E47,0,Partial deletion,0,PUMCH,China,False
+E48,0,Full amplification,3,PUMCH,China,False
+E49,0,Partial deletion,0,PUMCH,China,False
+E5,1,Full deletion,0,PUMCH,China,True
+E50,0,Normal,2,PUMCH,China,False
+E51,0,Partial deletion,0,PUMCH,China,False
+E52,0,Normal,2,PUMCH,China,False
+E53,0,Normal,2,PUMCH,China,False
+E54,0,Partial deletion,0,PUMCH,China,True
+E56,0,Normal,2,PUMCH,China,False
+E57,0,Partial deletion,0,PUMCH,China,False
+E58,0,Partial deletion,0,PUMCH,China,False
+E59,0,Partial deletion,0,PUMCH,China,False
+E6,0,Normal,2,PUMCH,China,False
+E60,0,Partial deletion,0,PUMCH,China,False
+E61,0,Partial deletion,0,PUMCH,China,False
+E62,0,Partial deletion,0,PUMCH,China,False
+E63,0,Partial deletion,0,PUMCH,China,False
+E64,0,Partial deletion,0,PUMCH,China,False
+E65,0,Partial amplification,6,PUMCH,China,False
+E66,0,Partial deletion,0,PUMCH,China,False
+E67,1,Full deletion,0,PUMCH,China,True
+E68,0,Partial deletion,0,PUMCH,China,False
+E69,0,Normal,2,PUMCH,China,False
+E7,0,Partial deletion,0,PUMCH,China,True
+E70,0,Partial deletion,0,PUMCH,China,False
+E71,0,Partial deletion,0,PUMCH,China,False
+E72,0,Partial deletion,0,PUMCH,China,False
+E73,0,Normal,2,PUMCH,China,False
+E74,0,Partial deletion,0,PUMCH,China,False
+E75,0,Partial deletion,0,PUMCH,China,False
+E78,0,Partial deletion,0,PUMCH,China,False
+E79,0,Partial amplification,6,PUMCH,China,False
+E80,0,Partial deletion,0,PUMCH,China,False
+E81,0,Partial deletion,0,PUMCH,China,False
+E9,0,Partial deletion,0,PUMCH,China,False
+FM14,0,Normal,2,UCD,Europe,True
+GL105,0,Partial deletion,0,UCD,Europe,True
+GL122,0,Normal,2,UCD,Europe,True
+GL16,0,Partial deletion,0,UCD,Europe,False
+GL18,0,Partial deletion,0,UCD,Europe,False
+GL23,1,Full deletion,0,UCD,Europe,True
+GL28,1,Full deletion,0,UCD,Europe,False
+GL29,1,Full deletion,0,UCD,Europe,True
+GL62,1,Full deletion,0,UCD,Europe,True
+GL79,0,Partial deletion,0,UCD,Europe,True
+MSK1,1,Full deletion,0,MSK,USA,True
+MSK1004,1,Full deletion,0,MSK,USA,True
+MSK1015,1,Full deletion,0,MSK,USA,True
+MSK1082,0,Partial deletion,0,MSK,USA,False
+MSK1090,0,Partial deletion,0,MSK,USA,False
+MSK1119,1,Full deletion,0,MSK,USA,True
+MSK1129,1,Full deletion,0,MSK,USA,True
+MSK1191,1,Full deletion,0,MSK,USA,False
+MSK1241,0,Partial deletion,0,MSK,USA,False
+MSK1258,0,Partial deletion,0,MSK,USA,False
+MSK1286,0,Normal,2,MSK,USA,False
+MSK1298,0,Normal,2,MSK,USA,False
+MSK1302,0,Normal,2,MSK,USA,False
+MSK1324,1,Full deletion,0,MSK,USA,False
+MSK1325,0,Partial deletion,0,MSK,USA,False
+MSK1394,1,Full deletion,0,MSK,USA,True
+MSK1398,1,Full deletion,0,MSK,USA,True
+MSK1399,1,Full deletion,0,MSK,USA,True
+MSK1666,1,Full deletion,0,MSK,USA,False
+MSK17,1,Full deletion,0,MSK,USA,True
+MSK1700,0,Partial deletion,0,MSK,USA,False
+MSK1762,1,Full deletion,0,MSK,USA,True
+MSK18,1,Full deletion,0,MSK,USA,True
+MSK1882,0,Normal,2,MSK,USA,False
+MSK1884,0,Normal,2,MSK,USA,False
+MSK1891,0,Normal,2,MSK,USA,False
+MSK1892,0,Normal,2,MSK,USA,False
+MSK1894,0,Normal,2,MSK,USA,False
+MSK1895,0,Normal,2,MSK,USA,False
+MSK2,1,Full deletion,0,MSK,USA,True
+MSK2057,1,Full deletion,0,MSK,USA,True
+MSK2094,1,Full deletion,0,MSK,USA,True
+MSK2107,1,Full deletion,0,MSK,USA,True
+MSK2108,1,Full deletion,0,MSK,USA,True
+MSK2123,0,Normal,2,MSK,USA,False
+MSK2124,0,Normal,2,MSK,USA,False
+MSK2159,1,Full deletion,0,MSK,USA,False
+MSK2161,1,Full deletion,0,MSK,USA,True
+MSK2162,1,Full deletion,0,MSK,USA,True
+MSK2191,0,Full amplification,3,MSK,USA,True
+MSK2199,0,Partial deletion,0,MSK,USA,True
+MSK2233,0,Normal,2,MSK,USA,False
+MSK2234,0,Normal,2,MSK,USA,False
+MSK2384,0,Normal,2,MSK,USA,True
+MSK2386,0,Normal,2,MSK,USA,False
+MSK2387,1,Full deletion,0,MSK,USA,True
+MSK2389,1,Full deletion,0,MSK,USA,True
+MSK2390,1,Full deletion,0,MSK,USA,True
+MSK2399,0,Normal,2,MSK,USA,False
+MSK2406,0,Normal,2,MSK,USA,False
+MSK2412,0,Normal,2,MSK,USA,False
+MSK2413,0,Partial deletion,0,MSK,USA,False
+MSK2415,0,Partial deletion,0,MSK,USA,False
+MSK2422,0,Partial deletion,0,MSK,USA,False
+MSK2425,0,Partial deletion,0,MSK,USA,False
+MSK2426,0,Partial deletion,0,MSK,USA,False
+MSK2448,1,Full deletion,0,MSK,USA,True
+MSK2456,1,Full deletion,0,MSK,USA,True
+MSK247,0,Partial deletion,0,MSK,USA,False
+MSK249,0,Normal,2,MSK,USA,False
+MSK2499,0,Partial deletion,0,MSK,USA,False
+MSK250,0,Normal,2,MSK,USA,False
+MSK2524,0,Full amplification,3,MSK,USA,False
+MSK2529,0,Normal,2,MSK,USA,True
+MSK264,1,Full deletion,0,MSK,USA,True
+MSK2640,1,Full deletion,0,MSK,USA,True
+MSK2646,1,Full deletion,0,MSK,USA,True
+MSK2647,1,Full deletion,0,MSK,USA,True
+MSK2648,1,Full deletion,0,MSK,USA,True
+MSK2649,1,Full deletion,0,MSK,USA,True
+MSK265,0,Normal,2,MSK,USA,False
+MSK281,0,Normal,2,MSK,USA,False
+MSK282,1,Full deletion,0,MSK,USA,True
+MSK296,1,Full deletion,0,MSK,USA,True
+MSK297,1,Full deletion,0,MSK,USA,True
+MSK314,1,Full deletion,0,MSK,USA,True
+MSK315,1,Full deletion,0,MSK,USA,True
+MSK33,1,Full deletion,0,MSK,USA,True
+MSK34,1,Full deletion,0,MSK,USA,True
+MSK478,1,Full deletion,0,MSK,USA,True
+MSK485,1,Full deletion,0,MSK,USA,True
+MSK489,1,Full deletion,0,MSK,USA,True
+MSK49,1,Full deletion,0,MSK,USA,True
+MSK490,1,Full deletion,0,MSK,USA,True
+MSK5,1,Full deletion,0,MSK,USA,True
+MSK51,1,Full deletion,0,MSK,USA,True
+MSK520,1,Full deletion,0,MSK,USA,True
+MSK522,1,Full deletion,0,MSK,USA,True
+MSK543,1,Full deletion,0,MSK,USA,True
+MSK544,1,Full deletion,0,MSK,USA,True
+MSK620,1,Full deletion,0,MSK,USA,False
+MSK624,1,Full deletion,0,MSK,USA,True
+MSK65,1,Full deletion,0,MSK,USA,True
+MSK67,1,Full deletion,0,MSK,USA,True
+MSK794,1,Full deletion,0,MSK,USA,True
+MSK795,1,Full deletion,0,MSK,USA,True
+MSK799,1,Full deletion,0,MSK,USA,True
+MSK800,1,Full deletion,0,MSK,USA,False
+MSK802,1,Full deletion,0,MSK,USA,True
+MSK803,1,Full deletion,0,MSK,USA,True
+MSK804,0,Normal,2,MSK,USA,False
+MSK806,1,Full deletion,0,MSK,USA,True
+MSK807,0,Partial deletion,0,MSK,USA,True
+MSK808,1,Full deletion,0,MSK,USA,True
+MSK809,0,Partial deletion,0,MSK,USA,False
+MSK810,1,Full deletion,0,MSK,USA,True
+MSK811,0,Full amplification,3,MSK,USA,False
+MSK812,1,Full deletion,0,MSK,USA,True
+MSK813,1,Full deletion,0,MSK,USA,False
+MSK814,0,Normal,2,MSK,USA,False
+MSK815,0,Partial deletion,0,MSK,USA,False
+MSK844,0,Normal,2,MSK,USA,False
+MSK846,0,Partial deletion,0,MSK,USA,False
+MSK848,0,Partial amplification,3,MSK,USA,False
+MSK850,0,Normal,2,MSK,USA,False
+MSK891,0,Normal,2,MSK,USA,False
+MSK923,0,Normal,2,MSK,USA,False
+MSK925,0,Normal,2,MSK,USA,False
+UWM1195,0,Partial deletion,0,UWM,USA,False
+UWM1196,0,Partial deletion,0,UWM,USA,False
+UWM1197,0,Normal,2,UWM,USA,False
+UWM1198,0,Normal,2,UWM,USA,False
+UWM1199,1,Full deletion,0,UWM,USA,True
+UWM1204,0,Partial deletion,0,UWM,USA,False
+UWM1206,1,Full deletion,0,UWM,USA,False
+UWM1207,0,Normal,2,UWM,USA,True
+UWM1208,0,Normal,2,UWM,USA,False

@@ -1,0 +1,220 @@
+Isolate,Pattern_3654,Pattern_3654_cnv_cat,Pattern_3654_cnv_quant,Institute,Location,HR
+CDC335,2,Normal,2,CDC,USA,False
+CDC336,2,Normal,2,CDC,USA,False
+CDC337,2,Normal,2,CDC,USA,False
+CDC338,2,Normal,2,CDC,USA,False
+CDC339,0,Partial deletion,0,CDC,USA,False
+CDC340,2,Normal,2,CDC,USA,False
+CDC342,2,Normal,2,CDC,USA,False
+CDC343,0,Partial deletion,0,CDC,USA,True
+CDC344,2,Normal,2,CDC,USA,True
+E1,0,Partial deletion,0,PUMCH,China,False
+E10,2,Normal,2,PUMCH,China,False
+E11,2,Normal,2,PUMCH,China,False
+E12,2,Normal,2,PUMCH,China,False
+E13,2,Normal,2,PUMCH,China,False
+E14,2,Normal,2,PUMCH,China,False
+E15,2,Normal,2,PUMCH,China,False
+E16,2,Normal,2,PUMCH,China,False
+E17,2,Normal,2,PUMCH,China,False
+E18,2,Normal,2,PUMCH,China,False
+E19,2,Normal,2,PUMCH,China,False
+E20,2,Normal,2,PUMCH,China,False
+E21,2,Normal,2,PUMCH,China,False
+E22,2,Normal,2,PUMCH,China,False
+E23,2,Normal,2,PUMCH,China,False
+E24,2,Normal,2,PUMCH,China,False
+E25,2,Normal,2,PUMCH,China,False
+E27,0,Partial deletion,0,PUMCH,China,False
+E3,2,Normal,2,PUMCH,China,False
+E30,2,Normal,2,PUMCH,China,True
+E31,2,Normal,2,PUMCH,China,False
+E32,2,Normal,2,PUMCH,China,True
+E33,2,Normal,2,PUMCH,China,False
+E34,2,Normal,2,PUMCH,China,True
+E35,2,Normal,2,PUMCH,China,False
+E36,2,Normal,2,PUMCH,China,True
+E37,2,Normal,2,PUMCH,China,False
+E38,0,Partial deletion,0,PUMCH,China,True
+E39,0,Partial deletion,0,PUMCH,China,False
+E4,2,Normal,2,PUMCH,China,False
+E40,2,Normal,2,PUMCH,China,False
+E41,2,Normal,2,PUMCH,China,False
+E42,2,Normal,2,PUMCH,China,False
+E43,2,Normal,2,PUMCH,China,False
+E44,2,Normal,2,PUMCH,China,False
+E45,2,Normal,2,PUMCH,China,True
+E46,2,Normal,2,PUMCH,China,True
+E47,2,Normal,2,PUMCH,China,False
+E48,2,Normal,2,PUMCH,China,False
+E49,2,Normal,2,PUMCH,China,False
+E5,0,Partial deletion,0,PUMCH,China,True
+E50,2,Normal,2,PUMCH,China,False
+E51,2,Normal,2,PUMCH,China,False
+E52,2,Normal,2,PUMCH,China,False
+E53,2,Normal,2,PUMCH,China,False
+E54,2,Normal,2,PUMCH,China,True
+E56,2,Normal,2,PUMCH,China,False
+E57,2,Normal,2,PUMCH,China,False
+E58,2,Normal,2,PUMCH,China,False
+E59,2,Normal,2,PUMCH,China,False
+E6,2,Normal,2,PUMCH,China,False
+E60,2,Normal,2,PUMCH,China,False
+E61,2,Normal,2,PUMCH,China,False
+E62,2,Normal,2,PUMCH,China,False
+E63,2,Normal,2,PUMCH,China,False
+E64,2,Normal,2,PUMCH,China,False
+E65,2,Normal,2,PUMCH,China,False
+E66,2,Normal,2,PUMCH,China,False
+E67,0,Partial deletion,0,PUMCH,China,True
+E68,2,Normal,2,PUMCH,China,False
+E69,2,Normal,2,PUMCH,China,False
+E7,2,Normal,2,PUMCH,China,True
+E70,2,Normal,2,PUMCH,China,False
+E71,2,Normal,2,PUMCH,China,False
+E72,2,Normal,2,PUMCH,China,False
+E73,2,Normal,2,PUMCH,China,False
+E74,2,Normal,2,PUMCH,China,False
+E75,2,Normal,2,PUMCH,China,False
+E78,2,Normal,2,PUMCH,China,False
+E79,2,Normal,2,PUMCH,China,False
+E80,2,Normal,2,PUMCH,China,False
+E81,2,Normal,2,PUMCH,China,False
+E9,2,Normal,2,PUMCH,China,False
+FM14,2,Normal,2,UCD,Europe,True
+GL105,2,Normal,2,UCD,Europe,True
+GL122,2,Normal,2,UCD,Europe,True
+GL16,2,Normal,2,UCD,Europe,False
+GL18,2,Normal,2,UCD,Europe,False
+GL23,2,Normal,2,UCD,Europe,True
+GL28,2,Normal,2,UCD,Europe,False
+GL29,0,Partial deletion,0,UCD,Europe,True
+GL62,2,Normal,2,UCD,Europe,True
+GL79,2,Normal,2,UCD,Europe,True
+MSK1,0,Partial deletion,0,MSK,USA,True
+MSK1004,0,Partial deletion,0,MSK,USA,True
+MSK1015,0,Partial deletion,0,MSK,USA,True
+MSK1082,2,Normal,2,MSK,USA,False
+MSK1090,2,Normal,2,MSK,USA,False
+MSK1119,0,Partial deletion,0,MSK,USA,True
+MSK1129,0,Partial deletion,0,MSK,USA,True
+MSK1191,0,Partial deletion,0,MSK,USA,False
+MSK1241,2,Normal,2,MSK,USA,False
+MSK1258,2,Normal,2,MSK,USA,False
+MSK1286,2,Normal,2,MSK,USA,False
+MSK1298,2,Normal,2,MSK,USA,False
+MSK1302,2,Normal,2,MSK,USA,False
+MSK1324,2,Normal,2,MSK,USA,False
+MSK1325,2,Normal,2,MSK,USA,False
+MSK1394,0,Partial deletion,0,MSK,USA,True
+MSK1398,0,Partial deletion,0,MSK,USA,True
+MSK1399,0,Partial deletion,0,MSK,USA,True
+MSK1666,0,Partial deletion,0,MSK,USA,False
+MSK17,0,Partial deletion,0,MSK,USA,True
+MSK1700,2,Normal,2,MSK,USA,False
+MSK1762,0,Partial deletion,0,MSK,USA,True
+MSK18,0,Partial deletion,0,MSK,USA,True
+MSK1882,2,Normal,2,MSK,USA,False
+MSK1884,2,Normal,2,MSK,USA,False
+MSK1891,2,Normal,2,MSK,USA,False
+MSK1892,2,Normal,2,MSK,USA,False
+MSK1894,2,Normal,2,MSK,USA,False
+MSK1895,2,Normal,2,MSK,USA,False
+MSK2,0,Partial deletion,0,MSK,USA,True
+MSK2057,0,Partial deletion,0,MSK,USA,True
+MSK2094,0,Partial deletion,0,MSK,USA,True
+MSK2107,0,Partial deletion,0,MSK,USA,True
+MSK2108,0,Partial deletion,0,MSK,USA,True
+MSK2123,2,Normal,2,MSK,USA,False
+MSK2124,2,Normal,2,MSK,USA,False
+MSK2159,0,Partial deletion,0,MSK,USA,False
+MSK2161,0,Partial deletion,0,MSK,USA,True
+MSK2162,0,Partial deletion,0,MSK,USA,True
+MSK2191,2,Normal,2,MSK,USA,True
+MSK2199,2,Normal,2,MSK,USA,True
+MSK2233,2,Normal,2,MSK,USA,False
+MSK2234,2,Normal,2,MSK,USA,False
+MSK2384,2,Normal,2,MSK,USA,True
+MSK2386,2,Normal,2,MSK,USA,False
+MSK2387,0,Partial deletion,0,MSK,USA,True
+MSK2389,0,Partial deletion,0,MSK,USA,True
+MSK2390,0,Partial deletion,0,MSK,USA,True
+MSK2399,2,Normal,2,MSK,USA,False
+MSK2406,2,Normal,2,MSK,USA,False
+MSK2412,2,Normal,2,MSK,USA,False
+MSK2413,2,Normal,2,MSK,USA,False
+MSK2415,2,Normal,2,MSK,USA,False
+MSK2422,2,Normal,2,MSK,USA,False
+MSK2425,2,Normal,2,MSK,USA,False
+MSK2426,2,Normal,2,MSK,USA,False
+MSK2448,0,Partial deletion,0,MSK,USA,True
+MSK2456,0,Partial deletion,0,MSK,USA,True
+MSK247,2,Normal,2,MSK,USA,False
+MSK249,2,Normal,2,MSK,USA,False
+MSK2499,2,Normal,2,MSK,USA,False
+MSK250,2,Normal,2,MSK,USA,False
+MSK2524,2,Normal,2,MSK,USA,False
+MSK2529,2,Normal,2,MSK,USA,True
+MSK264,0,Partial deletion,0,MSK,USA,True
+MSK2640,0,Partial deletion,0,MSK,USA,True
+MSK2646,0,Partial deletion,0,MSK,USA,True
+MSK2647,0,Partial deletion,0,MSK,USA,True
+MSK2648,0,Partial deletion,0,MSK,USA,True
+MSK2649,0,Partial deletion,0,MSK,USA,True
+MSK265,2,Normal,2,MSK,USA,False
+MSK281,2,Normal,2,MSK,USA,False
+MSK282,0,Partial deletion,0,MSK,USA,True
+MSK296,0,Partial deletion,0,MSK,USA,True
+MSK297,0,Partial deletion,0,MSK,USA,True
+MSK314,0,Partial deletion,0,MSK,USA,True
+MSK315,0,Partial deletion,0,MSK,USA,True
+MSK33,0,Partial deletion,0,MSK,USA,True
+MSK34,0,Partial deletion,0,MSK,USA,True
+MSK478,0,Partial deletion,0,MSK,USA,True
+MSK485,0,Partial deletion,0,MSK,USA,True
+MSK489,0,Partial deletion,0,MSK,USA,True
+MSK49,0,Partial deletion,0,MSK,USA,True
+MSK490,0,Partial deletion,0,MSK,USA,True
+MSK5,0,Partial deletion,0,MSK,USA,True
+MSK51,0,Partial deletion,0,MSK,USA,True
+MSK520,0,Partial deletion,0,MSK,USA,True
+MSK522,0,Partial deletion,0,MSK,USA,True
+MSK543,0,Partial deletion,0,MSK,USA,True
+MSK544,0,Partial deletion,0,MSK,USA,True
+MSK620,0,Partial deletion,0,MSK,USA,False
+MSK624,0,Partial deletion,0,MSK,USA,True
+MSK65,0,Partial deletion,0,MSK,USA,True
+MSK67,0,Partial deletion,0,MSK,USA,True
+MSK794,0,Partial deletion,0,MSK,USA,True
+MSK795,0,Partial deletion,0,MSK,USA,True
+MSK799,0,Partial deletion,0,MSK,USA,True
+MSK800,0,Partial deletion,0,MSK,USA,False
+MSK802,0,Partial deletion,0,MSK,USA,True
+MSK803,0,Partial deletion,0,MSK,USA,True
+MSK804,2,Normal,2,MSK,USA,False
+MSK806,0,Partial deletion,0,MSK,USA,True
+MSK807,2,Normal,2,MSK,USA,True
+MSK808,0,Partial deletion,0,MSK,USA,True
+MSK809,2,Normal,2,MSK,USA,False
+MSK810,0,Partial deletion,0,MSK,USA,True
+MSK811,2,Normal,2,MSK,USA,False
+MSK812,0,Partial deletion,0,MSK,USA,True
+MSK813,0,Partial deletion,0,MSK,USA,False
+MSK814,2,Normal,2,MSK,USA,False
+MSK815,2,Normal,2,MSK,USA,False
+MSK844,2,Normal,2,MSK,USA,False
+MSK846,2,Normal,2,MSK,USA,False
+MSK848,2,Normal,2,MSK,USA,False
+MSK850,2,Normal,2,MSK,USA,False
+MSK891,2,Normal,2,MSK,USA,False
+MSK923,2,Normal,2,MSK,USA,False
+MSK925,2,Normal,2,MSK,USA,False
+UWM1195,2,Normal,2,UWM,USA,False
+UWM1196,2,Normal,2,UWM,USA,False
+UWM1197,2,Normal,2,UWM,USA,False
+UWM1198,2,Normal,2,UWM,USA,False
+UWM1199,0,Partial deletion,0,UWM,USA,True
+UWM1204,2,Normal,2,UWM,USA,False
+UWM1206,0,Partial deletion,0,UWM,USA,False
+UWM1207,2,Normal,2,UWM,USA,True
+UWM1208,2,Normal,2,UWM,USA,False

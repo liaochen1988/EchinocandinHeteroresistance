@@ -1,0 +1,220 @@
+,Pattern_4470,Institute,Location,HR
+CDC335,Hom ref,CDC,USA,False
+CDC336,Hom ref,CDC,USA,False
+CDC337,Hom ref,CDC,USA,False
+CDC338,Hom ref,CDC,USA,False
+CDC339,Hom ref,CDC,USA,False
+CDC340,Het,CDC,USA,False
+CDC342,Hom ref,CDC,USA,False
+CDC343,Hom ref,CDC,USA,True
+CDC344,Hom ref,CDC,USA,True
+E1,Hom ref,PUMCH,China,False
+E10,Hom ref,PUMCH,China,False
+E11,Hom ref,PUMCH,China,False
+E12,Hom ref,PUMCH,China,False
+E13,Hom ref,PUMCH,China,False
+E14,Hom ref,PUMCH,China,False
+E15,Het,PUMCH,China,False
+E16,Hom ref,PUMCH,China,False
+E17,Hom ref,PUMCH,China,False
+E18,Hom ref,PUMCH,China,False
+E19,Hom ref,PUMCH,China,False
+E20,Hom ref,PUMCH,China,False
+E21,Hom ref,PUMCH,China,False
+E22,Hom ref,PUMCH,China,False
+E23,Het,PUMCH,China,False
+E24,Hom ref,PUMCH,China,False
+E25,Het,PUMCH,China,False
+E27,Hom ref,PUMCH,China,False
+E3,Het,PUMCH,China,False
+E30,Hom ref,PUMCH,China,True
+E31,Hom ref,PUMCH,China,False
+E32,Hom ref,PUMCH,China,True
+E33,Hom ref,PUMCH,China,False
+E34,Hom ref,PUMCH,China,True
+E35,Hom ref,PUMCH,China,False
+E36,Hom ref,PUMCH,China,True
+E37,Hom ref,PUMCH,China,False
+E38,Hom ref,PUMCH,China,True
+E39,Hom ref,PUMCH,China,False
+E4,Hom ref,PUMCH,China,False
+E40,Hom ref,PUMCH,China,False
+E41,Hom ref,PUMCH,China,False
+E42,Hom ref,PUMCH,China,False
+E43,Hom ref,PUMCH,China,False
+E44,Hom ref,PUMCH,China,False
+E45,Hom ref,PUMCH,China,True
+E46,Hom ref,PUMCH,China,True
+E47,Hom ref,PUMCH,China,False
+E48,Hom ref,PUMCH,China,False
+E49,Hom ref,PUMCH,China,False
+E5,Hom ref,PUMCH,China,True
+E50,Hom ref,PUMCH,China,False
+E51,Hom ref,PUMCH,China,False
+E52,Hom ref,PUMCH,China,False
+E53,Hom ref,PUMCH,China,False
+E54,Hom ref,PUMCH,China,True
+E56,Hom ref,PUMCH,China,False
+E57,Hom ref,PUMCH,China,False
+E58,Het,PUMCH,China,False
+E59,Het,PUMCH,China,False
+E6,Hom ref,PUMCH,China,False
+E60,Hom ref,PUMCH,China,False
+E61,Hom ref,PUMCH,China,False
+E62,Hom ref,PUMCH,China,False
+E63,Hom ref,PUMCH,China,False
+E64,Hom ref,PUMCH,China,False
+E65,Hom ref,PUMCH,China,False
+E66,Hom ref,PUMCH,China,False
+E67,Hom ref,PUMCH,China,True
+E68,Hom ref,PUMCH,China,False
+E69,Hom ref,PUMCH,China,False
+E7,Hom ref,PUMCH,China,True
+E70,Hom ref,PUMCH,China,False
+E71,Hom ref,PUMCH,China,False
+E72,Hom ref,PUMCH,China,False
+E73,Hom ref,PUMCH,China,False
+E74,Hom ref,PUMCH,China,False
+E75,Het,PUMCH,China,False
+E78,Hom ref,PUMCH,China,False
+E79,Hom ref,PUMCH,China,False
+E80,Hom ref,PUMCH,China,False
+E81,Hom ref,PUMCH,China,False
+E9,Hom ref,PUMCH,China,False
+FM14,Hom ref,UCD,Europe,True
+GL105,Hom ref,UCD,Europe,True
+GL122,Hom ref,UCD,Europe,True
+GL16,Het,UCD,Europe,False
+GL18,Hom ref,UCD,Europe,False
+GL23,Hom ref,UCD,Europe,True
+GL28,Hom ref,UCD,Europe,False
+GL29,Hom ref,UCD,Europe,True
+GL62,Hom alt,UCD,Europe,True
+GL79,Hom alt,UCD,Europe,True
+MSK1,Hom ref,MSK,USA,True
+MSK1004,Hom ref,MSK,USA,True
+MSK1015,Hom ref,MSK,USA,True
+MSK1082,Het,MSK,USA,False
+MSK1090,Het,MSK,USA,False
+MSK1119,Hom ref,MSK,USA,True
+MSK1129,Hom ref,MSK,USA,True
+MSK1191,Hom ref,MSK,USA,False
+MSK1241,Het,MSK,USA,False
+MSK1258,Het,MSK,USA,False
+MSK1286,Hom ref,MSK,USA,False
+MSK1298,Hom ref,MSK,USA,False
+MSK1302,Hom ref,MSK,USA,False
+MSK1324,Hom ref,MSK,USA,False
+MSK1325,Hom ref,MSK,USA,False
+MSK1394,Hom ref,MSK,USA,True
+MSK1398,Hom ref,MSK,USA,True
+MSK1399,Hom ref,MSK,USA,True
+MSK1666,Hom ref,MSK,USA,False
+MSK17,Hom ref,MSK,USA,True
+MSK1700,Hom ref,MSK,USA,False
+MSK1762,Hom ref,MSK,USA,True
+MSK18,Hom ref,MSK,USA,True
+MSK1882,Hom ref,MSK,USA,False
+MSK1884,Hom ref,MSK,USA,False
+MSK1891,Hom ref,MSK,USA,False
+MSK1892,Hom ref,MSK,USA,False
+MSK1894,Hom ref,MSK,USA,False
+MSK1895,Hom ref,MSK,USA,False
+MSK2,Hom ref,MSK,USA,True
+MSK2057,Hom ref,MSK,USA,True
+MSK2094,Hom ref,MSK,USA,True
+MSK2107,Hom ref,MSK,USA,True
+MSK2108,Hom ref,MSK,USA,True
+MSK2123,Hom ref,MSK,USA,False
+MSK2124,Hom ref,MSK,USA,False
+MSK2159,Hom ref,MSK,USA,False
+MSK2161,Hom ref,MSK,USA,True
+MSK2162,Hom ref,MSK,USA,True
+MSK2191,Hom ref,MSK,USA,True
+MSK2199,Hom ref,MSK,USA,True
+MSK2233,Hom ref,MSK,USA,False
+MSK2234,Hom ref,MSK,USA,False
+MSK2384,Hom ref,MSK,USA,True
+MSK2386,Hom ref,MSK,USA,False
+MSK2387,Hom ref,MSK,USA,True
+MSK2389,Hom ref,MSK,USA,True
+MSK2390,Hom ref,MSK,USA,True
+MSK2399,Hom ref,MSK,USA,False
+MSK2406,Hom ref,MSK,USA,False
+MSK2412,Hom ref,MSK,USA,False
+MSK2413,Het,MSK,USA,False
+MSK2415,Het,MSK,USA,False
+MSK2422,Het,MSK,USA,False
+MSK2425,Het,MSK,USA,False
+MSK2426,Het,MSK,USA,False
+MSK2448,Hom ref,MSK,USA,True
+MSK2456,Hom ref,MSK,USA,True
+MSK247,Hom ref,MSK,USA,False
+MSK249,Hom ref,MSK,USA,False
+MSK2499,Het,MSK,USA,False
+MSK250,Hom ref,MSK,USA,False
+MSK2524,Hom ref,MSK,USA,False
+MSK2529,Hom ref,MSK,USA,True
+MSK264,Hom ref,MSK,USA,True
+MSK2640,Hom ref,MSK,USA,True
+MSK2646,Hom ref,MSK,USA,True
+MSK2647,Hom ref,MSK,USA,True
+MSK2648,Hom ref,MSK,USA,True
+MSK2649,Hom ref,MSK,USA,True
+MSK265,Hom ref,MSK,USA,False
+MSK281,Hom ref,MSK,USA,False
+MSK282,Hom ref,MSK,USA,True
+MSK296,Hom ref,MSK,USA,True
+MSK297,Hom ref,MSK,USA,True
+MSK314,Hom ref,MSK,USA,True
+MSK315,Hom ref,MSK,USA,True
+MSK33,Hom ref,MSK,USA,True
+MSK34,Hom ref,MSK,USA,True
+MSK478,Hom ref,MSK,USA,True
+MSK485,Hom ref,MSK,USA,True
+MSK489,Hom ref,MSK,USA,True
+MSK49,Hom ref,MSK,USA,True
+MSK490,Hom ref,MSK,USA,True
+MSK5,Hom ref,MSK,USA,True
+MSK51,Hom ref,MSK,USA,True
+MSK520,Hom ref,MSK,USA,True
+MSK522,Hom ref,MSK,USA,True
+MSK543,Hom ref,MSK,USA,True
+MSK544,Hom ref,MSK,USA,True
+MSK620,Hom ref,MSK,USA,False
+MSK624,Hom ref,MSK,USA,True
+MSK65,Hom ref,MSK,USA,True
+MSK67,Hom ref,MSK,USA,True
+MSK794,Hom ref,MSK,USA,True
+MSK795,Hom ref,MSK,USA,True
+MSK799,Hom ref,MSK,USA,True
+MSK800,Hom ref,MSK,USA,False
+MSK802,Hom ref,MSK,USA,True
+MSK803,Hom ref,MSK,USA,True
+MSK804,Hom ref,MSK,USA,False
+MSK806,Hom ref,MSK,USA,True
+MSK807,Hom alt,MSK,USA,True
+MSK808,Hom ref,MSK,USA,True
+MSK809,Hom ref,MSK,USA,False
+MSK810,Hom ref,MSK,USA,True
+MSK811,Hom ref,MSK,USA,False
+MSK812,Hom ref,MSK,USA,True
+MSK813,Hom ref,MSK,USA,False
+MSK814,Hom ref,MSK,USA,False
+MSK815,Het,MSK,USA,False
+MSK844,Hom ref,MSK,USA,False
+MSK846,Hom ref,MSK,USA,False
+MSK848,Hom ref,MSK,USA,False
+MSK850,Hom ref,MSK,USA,False
+MSK891,Hom ref,MSK,USA,False
+MSK923,Hom ref,MSK,USA,False
+MSK925,Hom ref,MSK,USA,False
+UWM1195,Hom ref,UWM,USA,False
+UWM1196,Hom ref,UWM,USA,False
+UWM1197,Hom ref,UWM,USA,False
+UWM1198,Hom ref,UWM,USA,False
+UWM1199,Hom ref,UWM,USA,True
+UWM1204,Hom ref,UWM,USA,False
+UWM1206,Hom ref,UWM,USA,False
+UWM1207,Hom ref,UWM,USA,True
+UWM1208,Hom ref,UWM,USA,False
