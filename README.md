@@ -6,4 +6,4 @@ Folders beginning with 'Figure' or 'EDFigure' contain code to reproduce correspo
 
 All code has been tested using Python 3.8.5 on macOS Ventura 13.6.6.
 
-For further instructions, please refer to the README file in each specific folder (if available).
+For further instructions, please refer to the README file within each specific folder (if available) and comments in Juptyer notebook.
