@@ -12,5 +12,5 @@ Model type 3: Feature selector (Logistic regression), Classifier (XGBoost), Feat
 
 Model type 4: Feature selector (Logistic regression), Classifier (XGBoost), Features (all SNV, InDel, CNV cat, CNV quant), training data undersampling and oversampling
 
-In the manuscript, the outer loop was repeated 50 times (the 50 data splits used in our manuscript are available in data/train_test_splits.csv.). 
+In the manuscript, the outer loop was repeated 50 times (the 50 data splits used in our manuscript are available in data/train_test_splits.csv). 
 However, to expedite the execution, only 2 iterations were implemented in main.ipynb as a demonstration.
