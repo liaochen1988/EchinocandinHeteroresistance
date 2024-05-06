@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# this script takes two parameters
+# this script takes five parameters
 # first parameter $1: prefix of folders with pair-end fastq files
 # second parameter $2: number of threads
 # third parameter $3: GATK folder path (no trailing /), e.g., ../gatk-4.1.9.0
